@@ -1,0 +1,38 @@
+
+body{
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 50px;
+    
+}
+
+.heading{
+    margin: 100px;
+
+}
+form{
+    border: 1px solid pink;
+    width:500px;
+    padding: 20px;
+   
+}
+.input{
+    width: 300px;
+
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    text-align: center;
+    gap: 30px;
+}
+.search{
+    display: flex;
+    justify-content:start;
+    margin-bottom: 30px;
+}
+.main{
+    border: 1px solid pink;
+    width: 500px;
+}
